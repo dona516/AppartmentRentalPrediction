@@ -1,6 +1,6 @@
 
 
-#Apartment Rental Prediction in Germany 
+
 
 # Apartment Rental Prediction Overview
 
